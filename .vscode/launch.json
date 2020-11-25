@@ -1,0 +1,629 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReminderService",
+            "request": "launch",
+            "mainClass": "Date.ReminderService",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Mapmethod",
+            "request": "launch",
+            "mainClass": "JavaStreams.Mapmethod",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - matchMethods",
+            "request": "launch",
+            "mainClass": "JavaStreams.matchMethods",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaxandMin",
+            "request": "launch",
+            "mainClass": "JavaStreams.MaxandMin",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Allmatch",
+            "request": "launch",
+            "mainClass": "JavaStreams.Allmatch",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - firstProgram",
+            "request": "launch",
+            "mainClass": "enums.firstProgram",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sortmethod",
+            "request": "launch",
+            "mainClass": "JavaStreams.Sortmethod",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Filtermethod",
+            "request": "launch",
+            "mainClass": "JavaStreams.Filtermethod",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question8",
+            "request": "launch",
+            "mainClass": "Arrays.Question8",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question7",
+            "request": "launch",
+            "mainClass": "Arrays.Question7",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question6",
+            "request": "launch",
+            "mainClass": "Arrays.Question6",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question5",
+            "request": "launch",
+            "mainClass": "Arrays.Question5",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question3",
+            "request": "launch",
+            "mainClass": "Arrays.Question3",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question4",
+            "request": "launch",
+            "mainClass": "Arrays.Question4",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question2",
+            "request": "launch",
+            "mainClass": "Arrays.Question2",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question1",
+            "request": "launch",
+            "mainClass": "Arrays.Question1",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pattern12",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern12",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pattern11",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern11",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashMapmethods3",
+            "request": "launch",
+            "mainClass": "Collections.HashMapmethods3",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashMapmethods2",
+            "request": "launch",
+            "mainClass": "Collections.HashMapmethods2",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashMapmethods1",
+            "request": "launch",
+            "mainClass": "Collections.HashMapmethods1",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question6",
+            "request": "launch",
+            "mainClass": "StringQuestions.Question6",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question5",
+            "request": "launch",
+            "mainClass": "StringQuestions.Question5",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question4",
+            "request": "launch",
+            "mainClass": "StringQuestions.Question4",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question3",
+            "request": "launch",
+            "mainClass": "StringQuestions.Question3",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question2",
+            "request": "launch",
+            "mainClass": "StringQuestions.Question2",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question1",
+            "request": "launch",
+            "mainClass": "StringQuestions.Question1",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pattern9",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern9",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pattern8",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern8",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pattern7",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern7",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pattern6",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern6",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pattern5",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern5",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pattern1",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern1",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pattern4",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern4",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pattern3",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern3",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pattern2",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern2",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pattern",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashSetMethod2",
+            "request": "launch",
+            "mainClass": "Collections.HashSetMethod2",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashSetMethod1",
+            "request": "launch",
+            "mainClass": "Collections.HashSetMethod1",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - staticDemo",
+            "request": "launch",
+            "mainClass": "staticDemo",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Stackmethods2",
+            "request": "launch",
+            "mainClass": "Collections.Stackmethods2",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Stackmethods",
+            "request": "launch",
+            "mainClass": "Collections.Stackmethods",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question5",
+            "request": "launch",
+            "mainClass": "interviewPrograms.Question5",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question4",
+            "request": "launch",
+            "mainClass": "interviewPrograms.Question4",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question3",
+            "request": "launch",
+            "mainClass": "interviewPrograms.Question3",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question2",
+            "request": "launch",
+            "mainClass": "interviewPrograms.Question2",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Question1",
+            "request": "launch",
+            "mainClass": "interviewPrograms.Question1",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Vectormethods3",
+            "request": "launch",
+            "mainClass": "Collections.Vectormethods3",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Vectormethods2",
+            "request": "launch",
+            "mainClass": "Collections.Vectormethods2",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Vectormethods1",
+            "request": "launch",
+            "mainClass": "Collections.Vectormethods1",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkedListmethod3",
+            "request": "launch",
+            "mainClass": "Collections.LinkedListmethod3",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkedListmethod2",
+            "request": "launch",
+            "mainClass": "Collections.LinkedListmethod2",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkedListmethods1",
+            "request": "launch",
+            "mainClass": "Collections.LinkedListmethods1",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayListmethods3",
+            "request": "launch",
+            "mainClass": "Collections.ArrayListmethods3",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayListmethods2",
+            "request": "launch",
+            "mainClass": "Collections.ArrayListmethods2",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayListmethods",
+            "request": "launch",
+            "mainClass": "Collections.ArrayListmethods",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringInput1",
+            "request": "launch",
+            "mainClass": "StringInput1",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringInput3",
+            "request": "launch",
+            "mainClass": "StringInput3",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - listiterate3",
+            "request": "launch",
+            "mainClass": "listiterate3",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - listiterate2",
+            "request": "launch",
+            "mainClass": "listiterate2",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - listiterate1",
+            "request": "launch",
+            "mainClass": "listiterate1",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MathClass1",
+            "request": "launch",
+            "mainClass": "MathClass1",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - reverseString",
+            "request": "launch",
+            "mainClass": "reverseString",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Version",
+            "request": "launch",
+            "mainClass": "Version",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - maxNmin3",
+            "request": "launch",
+            "mainClass": "maxNmin3",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - maxNmin2",
+            "request": "launch",
+            "mainClass": "maxNmin2",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - maxNmin1",
+            "request": "launch",
+            "mainClass": "maxNmin1",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExecutionTime",
+            "request": "launch",
+            "mainClass": "ExecutionTime",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FindPrime",
+            "request": "launch",
+            "mainClass": "FindPrime",
+            "projectName": "java120_a6907003"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CurrencyConverter",
+            "request": "launch",
+            "mainClass": "CurrencyConverter",
+            "projectName": "java120_47743eb"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - loop",
+            "request": "launch",
+            "mainClass": "loop",
+            "projectName": "java120_47743eb"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AreaCalculator",
+            "request": "launch",
+            "mainClass": "AreaCalculator",
+            "projectName": "java120_47743eb"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "java120_47743eb"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PositiveOrNegative",
+            "request": "launch",
+            "mainClass": "PositiveOrNegative",
+            "projectName": "java120_47743eb"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EvenOrOdd",
+            "request": "launch",
+            "mainClass": "EvenOrOdd",
+            "projectName": "java120_47743eb"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MatrixPrinter",
+            "request": "launch",
+            "mainClass": "MatrixPrinter",
+            "projectName": "java120_47743eb"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NumberTable",
+            "request": "launch",
+            "mainClass": "NumberTable",
+            "projectName": "java120_47743eb"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ScreenShot",
+            "request": "launch",
+            "mainClass": "ScreenShot",
+            "projectName": "java120_47743eb"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MethodOverloadingEX",
+            "request": "launch",
+            "mainClass": "MethodOverloadingEX",
+            "projectName": "java120_47743eb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Calculator<java120_47743eb>",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "java120_47743eb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CurrentDate<java120_47743eb>",
+            "request": "launch",
+            "mainClass": "CurrentDate",
+            "projectName": "java120_47743eb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CurrentTime<java120_47743eb>",
+            "request": "launch",
+            "mainClass": "CurrentTime",
+            "projectName": "java120_47743eb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloWorld<java120_47743eb>",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "java120_47743eb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NameSwap<java120_47743eb>",
+            "request": "launch",
+            "mainClass": "NameSwap",
+            "projectName": "java120_47743eb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumbersSwap<java120_47743eb>",
+            "request": "launch",
+            "mainClass": "NumbersSwap",
+            "projectName": "java120_47743eb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TakingInput<java120_47743eb>",
+            "request": "launch",
+            "mainClass": "TakingInput",
+            "projectName": "java120_47743eb"
+        }
+    ]
+}
