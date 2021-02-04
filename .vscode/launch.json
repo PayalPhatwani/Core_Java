@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch duplicateElements2",
+            "request": "launch",
+            "mainClass": "Arrays.duplicateElements2",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch duplicateElements",
+            "request": "launch",
+            "mainClass": "Arrays.duplicateElements",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ReminderService",
             "request": "launch",
             "mainClass": "Date.ReminderService",

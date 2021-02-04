@@ -1,3 +1,5 @@
+package MaxminProblems;
+
 import java.util.*;
 import java.io.*;
 //Find maximum and minimum 

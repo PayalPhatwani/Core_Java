@@ -1,4 +1,4 @@
-package String;
+package StringQuestions;
 //remove a given character from String
 public class removeChar {
     

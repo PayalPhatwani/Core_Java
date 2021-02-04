@@ -1,4 +1,4 @@
-package String;
+package StringQuestions;
 
 public class countVowels {
 

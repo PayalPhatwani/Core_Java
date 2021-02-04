@@ -1,4 +1,4 @@
-package String;
+package StringQuestions;
 
 import java.util.*;
 
