@@ -6,6 +6,139 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch binarySearch",
+            "request": "launch",
+            "mainClass": "SearchingAlgo.binarySearch",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch stackImpl1",
+            "request": "launch",
+            "mainClass": "Stack.stackImpl1",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch San",
+            "request": "launch",
+            "mainClass": "Generics.San",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stackimpl",
+            "request": "launch",
+            "mainClass": "Collections.Stackimpl",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueImpl",
+            "request": "launch",
+            "mainClass": "Collections.QueueImpl",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "Generics.demo",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch genericClass",
+            "request": "launch",
+            "mainClass": "Generics.genericClass",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Datatype",
+            "request": "launch",
+            "mainClass": "CoreJavaCodingProblems.Datatype",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShiftingLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.ShiftingLinkedList",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListImplementation",
+            "request": "launch",
+            "mainClass": "LinkedList.LinkedListImplementation",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tester",
+            "request": "launch",
+            "mainClass": "LinkedList.Tester",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumOfDigits",
+            "request": "launch",
+            "mainClass": "Recursion.sumOfDigits",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "Recursion.factorial",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch bubbleSort",
+            "request": "launch",
+            "mainClass": "sortingAlgo.bubbleSort",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "StringQuestions.demo",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringContains",
+            "request": "launch",
+            "mainClass": "RegularExpression.StringContains",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question8",
+            "request": "launch",
+            "mainClass": "Arrays.Question8",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question4",
+            "request": "launch",
+            "mainClass": "Arrays.Question4",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequentElement",
+            "request": "launch",
+            "mainClass": "Arrays.frequentElement",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
             "name": "Launch duplicateElements2",
             "request": "launch",
             "mainClass": "Arrays.duplicateElements2",
