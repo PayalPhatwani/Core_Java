@@ -1,4 +1,4 @@
-package Arrays;
+
 //Brute Force method
 public class duplicateElements1 {
     public static void main(String[] args) {

@@ -5,6 +5,7 @@
         "bitOperations",
         "StringQuestions",
         "Generics",
-        "Recursion"
+        "Recursion",
+        "2DArray"
     ]
 }

@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch interchangeDiagonal",
+            "request": "launch",
+            "mainClass": "Matrix.interchangeDiagonal",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch diagonalSum",
+            "request": "launch",
+            "mainClass": "diagonalSum",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch dec2dArray",
+            "request": "launch",
+            "mainClass": "dec2dArray",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
             "name": "Launch abdPNC",
             "request": "launch",
             "mainClass": "abdPNC",

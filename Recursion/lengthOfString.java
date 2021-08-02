@@ -13,5 +13,6 @@ public class lengthOfString {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
         System.out.println(calculateLength(s));
+        sc.close();
     }
 }

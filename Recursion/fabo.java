@@ -19,6 +19,6 @@ public class fabo {
         temp[1]=1;
         temp[2]=1;
         System.out.println(tribonacci(temp,n));
-       
+       sc.close();
     }
 }

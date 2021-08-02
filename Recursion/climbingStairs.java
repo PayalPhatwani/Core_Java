@@ -27,5 +27,6 @@ public class climbingStairs {
         int[] mem = new int[n];
         Arrays.fill(mem, -1);
         System.out.println(possibleCount(mem,0,n));
+        sc.close();
     }
 }
