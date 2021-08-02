@@ -6,6 +6,139 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch abdPNC",
+            "request": "launch",
+            "mainClass": "abdPNC",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch printString2",
+            "request": "launch",
+            "mainClass": "printString2",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch printString",
+            "request": "launch",
+            "mainClass": "printString",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch lengthOfString",
+            "request": "launch",
+            "mainClass": "lengthOfString",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch fabo",
+            "request": "launch",
+            "mainClass": "fabo",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch printDecreasing",
+            "request": "launch",
+            "mainClass": "printDecreasing",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch printTillN",
+            "request": "launch",
+            "mainClass": "printTillN",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch tree",
+            "request": "launch",
+            "mainClass": "tree",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch aa",
+            "request": "launch",
+            "mainClass": "aa",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Result",
+            "request": "launch",
+            "mainClass": "Generics.Result",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Generics.Solution",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch commonRangeSoldiers",
+            "request": "launch",
+            "mainClass": "Generics.commonRangeSoldiers",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question1",
+            "request": "launch",
+            "mainClass": "StringQuestions.Question1",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch XORoperation",
+            "request": "launch",
+            "mainClass": "bitOperation.XORoperation",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch San",
+            "request": "launch",
+            "mainClass": "San",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch XORoperation",
+            "request": "launch",
+            "mainClass": "XORoperation",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch anagramHashmap",
+            "request": "launch",
+            "mainClass": "StringQuestions.anagramHashmap",
+            "projectName": "Core_Java_53fae8a7"
+        },
+        {
+            "type": "java",
             "name": "Launch binarySearch",
             "request": "launch",
             "mainClass": "SearchingAlgo.binarySearch",

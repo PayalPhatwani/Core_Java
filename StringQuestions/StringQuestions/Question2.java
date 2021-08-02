@@ -1,4 +1,5 @@
 package StringQuestions;
+
 //how-to-reverse-a-string-using-lambda-expression
 interface StringFunc {
    String func(String n);

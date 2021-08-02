@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "tree",
+        "sortingAlgo",
+        "bitOperations",
+        "StringQuestions",
+        "Generics",
+        "Recursion"
+    ]
+}
